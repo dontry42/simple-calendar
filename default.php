@@ -1,6 +1,6 @@
 <?php
 // iCloud URL
-$icloudUrl = 'https://p224-caldav.icloud.com.cn/published/2/xxxxx'; //change xxxxx to your icloud website address
+$icloudUrl = 'https://p224-caldav.icloud.com.cn/published/2/xxxxx'; //change xxxxx to your icloud website address. Change com.cn to com if necessary.
 
 // Local cache file path
 $icloudCacheFile = 'icloud_calendar.ics';
