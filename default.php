@@ -6,7 +6,7 @@ $icloudUrl = 'https://p224-caldav.icloud.com.cn/published/2/xxxxx'; //change xxx
 $icloudCacheFile = 'icloud_calendar.ics';
 $localFile = 'local_calendar.ics';
 
-// Set update interval to one day（86400秒）
+// Set update interval to one day（86400 s）
 $updateInterval = 86400;
 
 // Update iCloud cache"
